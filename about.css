@@ -1,0 +1,45 @@
+*{
+    background-color:slateblue
+}
+#about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+#photo{
+    height: 250px;
+    width: 250px;
+    border: 2px solid slateblue;
+    border-radius: 50%;
+    background-image: url("IMG_0331.JPG");
+    background-size: cover;
+}
+
+
+#bio{
+
+   
+    height: 180px;
+    width: 600px;
+    border: 5px solid burlywood;
+    border-radius: 15px;
+    font-weight: 900px;
+    font-size: x-large;
+    margin-top: 30px;
+    color:white;
+    padding-left: 10px;
+}
+
+
+#takeme{
+    margin-top: 30px;
+    
+}
+
+img{
+    height: 100px;
+    width: 200px;
+
+}

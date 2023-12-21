@@ -1,0 +1,53 @@
+*{
+    background-color: slateblue;
+}
+
+#headings{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+
+#divnav{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+     margin-top: 90px;
+    
+}
+
+#takeme{
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    height: 100px;
+    width: 200px;
+
+}
+
+.box{
+    height: 300px;
+    width: 300px;
+  border: 4px solid white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding-left: 40px;
+  border-radius: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 800;
+  font-size: larger;
+ 
+}
+#box2{
+    border-color: burlywood;
+}
+
+#box3{
+    border-color: burlywood;
+}
